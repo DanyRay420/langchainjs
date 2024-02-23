@@ -45,7 +45,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "turbo": "latest"
+    "turbo": "1.12.2"
   },
   "resolutions": {
     "dpdm@^3.12.0": "patch:dpdm@npm%3A3.12.0#./.yarn/patches/dpdm-npm-3.12.0-0dfdd8e3b8.patch",
